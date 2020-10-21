@@ -6,5 +6,6 @@ public class HelloGit {
         System.out.println("Update Hello Git");
         System.out.println("Test Branch");
         System.out.println("Branch add");
+        System.out.println("second branch add");
     }
 }
